@@ -8,7 +8,7 @@ Simple script made in JavaScript to idle in-game hours on Steam. Recommended to 
 
 # Getting Started
 - Install latest version of NodeJS.
-- Run `install.bat` and wait for the installation to finish.
+- Start PowerShell in the steam-hour-boost directory and type `npm install` in PowerShell and hit enter.
 - Edit `start.js` and fill username and  password.
-- Launch the script by running `launch.bat` file.
+- Launch the script by typing `node start.js` in PowerShell.
 
